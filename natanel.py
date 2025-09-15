@@ -1,1 +1,7 @@
-print("hello world")
+
+
+
+
+
+name =" Netanel"
+print(name)
