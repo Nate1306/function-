@@ -24,5 +24,5 @@ while is_list_shorter_than(guest_list, 12):
     else:
         print(new_guest, "is already invited")
 
-print(guest_list)
+print(guest_lIst)
 
